@@ -117,4 +117,4 @@ Works seamlessly on both desktop and mobile devices.
 
 ### Dashboard
 
-![Dashboard](./src/features/dashboard.png)
+![Dashboard](./src/features/dashboard/dashboard.png)
